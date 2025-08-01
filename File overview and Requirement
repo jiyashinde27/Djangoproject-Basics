@@ -1,0 +1,15 @@
+📄 File Overview
+views.py – Contains view functions like home(request) returning rendered templates.
+
+templates/home.html – HTML file rendered by views.
+
+urls.py – Routes URLs to views.
+
+static/css/style.css – CSS styling used in templates.
+
+settings.py – Django settings including static and template configuration.
+
+✅ Requirements
+Python 3.x
+
+Django 3.2 or higher
